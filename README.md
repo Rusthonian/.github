@@ -1,64 +1,26 @@
-# 🦀 Rusthonian
+# Rusthonian Organization Profile
 
-**High-Performance Python Bindings for Rust Crates**
+This repository contains the GitHub organization profile for Rusthonian.
 
-Welcome to Rusthonian! We bring Rust's speed and safety to Python through carefully crafted PyO3 bindings.
+## What is this?
 
----
+When you create a repository named `.github` in a GitHub organization, the `profile/README.md` file becomes the organization's profile page.
 
-## 🚀 What We Do
+## Structure
 
-Rusthonian provides blazingly fast Python modules by wrapping high-quality Rust crates. Each module delivers Rust-level performance with a Pythonic API.
-
-### Why Rusthonian?
-
-- **🔥 Performance**: 20-50x faster than pure Python
-- **🐍 Pythonic**: Natural Python APIs
-- **🔒 Safe**: Rust's memory safety guarantees
-- **🧪 Tested**: Comprehensive test coverage
-- **📝 Documented**: Clear examples and docs
-
----
-
-## 📦 Projects
-
-| Module | Performance | Status |
-|--------|-------------|--------|
-| **[Rusthonian](https://github.com/Rusthonian/Rusthonian)** | 9.6M+ UUIDs/s | ✅ Production |
-
----
-
-## 💡 Quick Example
-
-```python
-from Rusthonian import uuid
-
-u = uuid.uuid4()  # 9.6+ million UUIDs/second!
-print(u)
+```
+.github/
+└── profile/
+    └── README.md    # This shows on https://github.com/Rusthonian
 ```
 
----
+## Setup
 
-## 🤝 Get Involved
+1. Create organization: `Rusthonian`
+2. Create repository: `.github` (public)
+3. Push this repo
+4. The profile will appear on your organization page!
 
-- ⭐ Star our projects
-- 🐛 Report issues
-- 💡 Suggest new modules
-- 🔧 Contribute code
+## Links
 
----
-
-## 📬 Connect
-
-- GitHub: [@Rusthonian](https://github.com/Rusthonian)
-- Email: contact@rusthonian.org
-
----
-
-<div align="center">
-
-**Made with ❤️ using [PyO3](https://pyo3.rs/)**
-
-*Rust performance for Python developers*
-
-</div>
+- Main Project: https://github.com/Rusthonian/Rusthonian

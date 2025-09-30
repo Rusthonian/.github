@@ -24,8 +24,8 @@ Rusthonian provides blazingly fast Python modules by wrapping high-quality Rust 
 
 | Module | Performance | Status |
 |--------|-------------|--------|
-| **[uuid](https://github.com/Rusthonian/Rusthonian/uuid)** | 9.6M+ UUIDs/s | ✅ Production |
-| **[Chrono](https://github.com/Rusthonian/Rusthonian/chrono)** | 10-50x faster | ✅ Production |
+| **[uuid](https://github.com/Rusthonian/uuid)** | 9.6M+ UUIDs/s | ✅ Production |
+| **[Chrono](https://github.com/Rusthonian/chrono)** | 10-50x faster | ✅ Production |
 ---
 
 <div align="center">

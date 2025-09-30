@@ -28,33 +28,6 @@ Rusthonian provides blazingly fast Python modules by wrapping high-quality Rust 
 
 ---
 
-## 💡 Quick Example
-
-```python
-from Rusthonian import uuid
-
-u = uuid.uuid4()  # 9.6+ million UUIDs/second!
-print(u)
-```
-
----
-
-## 🤝 Get Involved
-
-- ⭐ Star our projects
-- 🐛 Report issues
-- 💡 Suggest new modules
-- 🔧 Contribute code
-
----
-
-## 📬 Connect
-
-- GitHub: [@Rusthonian](https://github.com/Rusthonian)
-- Email: contact@rusthonian.org
-
----
-
 <div align="center">
 
 **Made with ❤️ using [PyO3](https://pyo3.rs/)**
